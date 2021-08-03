@@ -4,14 +4,15 @@
  
 :root {
   --global-bg-color: #{$white-color};
+  --navbar-bg-color: #{$very-light-cyan};
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$purple-color};
+  --global-theme-color: #{$blue-msc};
   --global-hover-color: #{$purple-color};
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
-  --global-footer-link-color: #{$white-color};
+  --global-footer-link-color: #{$grey-color};
   --global-distill-app-color: #{$grey-color};
 
   .fa-sun {

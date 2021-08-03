@@ -17,22 +17,24 @@ nav: true
 </div> -->
 
 ---
+<p style="margin: 0 auto; font-size:2em; color: silver; font-weight: 900; text-align:right ; max-width: 70%;">2021</p>
 
-<img align="left" width="200" height="100" style="float:left; padding-right:20px" src="/assets/img/publications/2021_iros_lignet.gif">
+<img align="left" width="250" height="125" style="float:left; padding-right:30px" src="/assets/img/publications/2021_iros_lignet.gif">
 
-##### **Correlate-and-Excite: Real-Time Stereo Matching via Guided Cost Volume Excitation**
+###### **Correlate-and-Excite: Real-Time Stereo Matching via Guided Cost Volume Excitation**
 **Antyanta Bangunharcana**, Jae Won Cho, Seokju Lee, In So Kweon, Kyung-Soo Kim, Soohyun Kim  
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021  
 
 \[[Paper]()\] &nbsp; \[[Project](/projects/CoEx/index.html)\] &nbsp; \[[Code](https://github.com/antabangun/coex)\]
 
 ---
+<p style="margin: 0 auto; font-size:2em; color: silver; font-weight: 900; text-align:right ; max-width: 70%;">2020</p>
 
-<img align="left" width="200" height="100" style="float:left; padding-right:20px" >
+<img align="left" width="250" height="125" style="float:left; padding-right:30px" >
 
-##### **Retaining Image Feature Matching Performance Under Low Light Conditions**
+###### **Retaining Image Feature Matching Performance Under Low Light Conditions**
 Pranjay Shyam, **Antyanta Bangunharcana**, Kyung-Soo Kim  
-International Conference on Control, Automation and Systems (ICCAS), 20210 
+International Conference on Control, Automation and Systems (ICCAS), 2020 
 
 \[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9268426)\]
 

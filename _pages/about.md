@@ -8,17 +8,17 @@ description:
     # <div id="profile">
   # <img class="avatar avatar-circle" src="/assets/img/prof_pic.jpg" alt="Avatar">
   <div class="portrait-title">
-  <h5>Ph.D Candidate at
+  <h6>Ph.D Candidate at
     <a href="https://msc.kaist.ac.kr">
       MSC Lab
     </a>
-  </h5>
+  </h6>
         
-  <h5>
+  <h6>
     <a href="https://me.kaist.ac.kr/main/main.html" >
     Mechanical Engineering, KAIST
     </a>
-  </h5>
+  </h6>
   </div>
 
   <td>
@@ -74,7 +74,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 <div class="row">
   <div class="col-md-6">
-    <h3>Contact</h3>
+    <h4>Contact</h4>
         <ul class="ul-contact fa-ul">
           <li>          
             <i class="fa-li fas fa-envelope"></i>
@@ -87,14 +87,14 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
           <li>  
             <i class="fa-li fas fa-map-marker"></i>
             <div class="description">
-              <p class="course">MSC Lab.4F(#3434~#3446) ID B/D(N25), 291 Daehak-ro, Yuseong-gu, Daejeon, Korea, 34141</p>
+              <p class="course">MSC Lab.4F(#3434~#3446) ID B/D(N25), KAIST, 373-1, Guseong-dong, Yuseong-gu, Daejeon, Korea, 305-701</p>
             </div> 
           </li>
         </ul>  
 
   </div>
     <div class="col-md-6">
-      <h3>Education</h3>
+      <h4>Education</h4>
       <ul class="ul-edu fa-ul">
         <li>
           <i class="fa-li fas fa-graduation-cap"></i>
