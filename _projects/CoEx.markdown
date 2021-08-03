@@ -7,6 +7,8 @@ importance: 1
 category: Research
 ---
 
+
+
 <p align="center">
   <img width="422" height="223" src="/assets/img/publications/CoEx/teaser.png">
   <p style="margin: 0 auto; font-size:0.8em; text-align:center ; max-width: 70%;">
@@ -36,6 +38,11 @@ efficiency of our model and show that our model outperforms
 other speed-based algorithms while also being competitive to
 other state-of-the-art algorithms
 </span>
+<p style="margin: 0 auto; font-size:0.9em; text-align:left ; " markdown="1">
+\[[Paper]()\] &nbsp; \[[Code](https://github.com/antabangun/coex)\] 
+  </p>
+
+<br>
 
 ## Contributions
 
