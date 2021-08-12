@@ -105,19 +105,15 @@ Ground truth disparity is represented by vertical solid green line. Predicted di
 
 <div class="row mt-2">
     <div class="col-sm mt-2 mt-md-0">
+    <p align="right">
+        Top-48
         <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/publications/CoEx/cost_top48.gif' | relative_url }}" alt="" title="cost top-48" data-zoomable/>
+    </p>
     </div>
     <div class="col-sm mt-2 mt-md-0">
-        <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/publications/CoEx/cost_top2.gif' | relative_url }}" alt="" title="cost top-2" data-zoomable/>
-    </div>
-</div> 
-<div class="row mt-2">
-    <div class="col-sm mt-2 mt-md-0" align="center">
-        <p>Top-48</p>
-    </div>
-    <div class="col-sm mt-2 mt-md-0" align="center">
-        <p>Top-2</p>
-        [1]
+    <p align="left">
+        <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/publications/CoEx/cost_top2.gif' | relative_url }}" alt="" title="cost top-2" data-zoomable/>Top-2
+    </p>
     </div>
 </div> 
 <div class="caption">
