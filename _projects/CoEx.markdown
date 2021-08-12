@@ -10,7 +10,7 @@ category: Research
 
 
 <p align="center">
-  <img width="422" height="223" src="/assets/img/publications/CoEx/teaser.png">
+  <img width="422" height="223" src="/assets/img/publications/CoEx/teaser.png" data-zoomable>
   <p style="margin: 0 auto; font-size:0.8em; text-align:center ; max-width: 70%;">
 D1-all% error on KITTI stereo 2015 leaderboard vs. frame rate. Our proposed method CoEx, shown in the red star, achieve competitive performance compared to other state-of-the-art models while also being real-time.</p>
 </p>
@@ -53,7 +53,7 @@ other state-of-the-art algorithms
 ## CoEx overall architecture
 
 <p align="center">
-  <img width="772" height="231" src="/assets/img/publications/CoEx/coex_overall.png" title="CoEx overall architecture">
+  <img width="772" height="231" src="/assets/img/publications/CoEx/coex_overall.png" title="CoEx overall architecture" data-zoomable>
   <p style="margin: 0 auto; font-size:0.8em; text-align:center ; max-width: 70%;"></p>
 </p>
 
@@ -83,7 +83,7 @@ other state-of-the-art algorithms
 </div>   -->
 
 <p align="center">
-  <img width="467" height="562" src="/assets/img/publications/CoEx/exc.jpg" title="GCE excitation weights">
+  <img width="467" height="562" src="/assets/img/publications/CoEx/exc.jpg" title="GCE excitation weights" data-zoomable>
   <p style="margin: 0 auto; font-size:0.8em; text-align:center ; max-width: 70%;" markdown="1">
 Computed excitation weights in one of the GCE layers. 
   </p>
@@ -102,19 +102,40 @@ Ground truth disparity is represented by vertical solid green line. Predicted di
   </p>
 </p>
 
+
+<div class="row mt-2">
+    <div class="col-sm mt-2 mt-md-0">
+        <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/publications/CoEx/cost_top48.gif' | relative_url }}" alt="" title="cost top-48" data-zoomable/>
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+        <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/publications/CoEx/cost_top2.gif' | relative_url }}" alt="" title="cost top-2" data-zoomable/>
+    </div>
+</div> 
+<div class="row mt-2">
+    <div class="col-sm mt-2 mt-md-0" align="center">
+        <p>Top-48</p>
+    </div>
+    <div class="col-sm mt-2 mt-md-0" align="center">
+        <p>Top-2</p>
+        [1]
+    </div>
+</div> 
+<div class="caption">
+    Activation strengths at fronto-parallel slices of the cost volume for top-48 and top-2 soft-argmax regression. Red represents stronger activation and blue is weak. Notice how the activations with top-2 regression is stronger and sharper.
+</div>
 ## Demo
 
 ### Real-time stereo matching
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/publications/CoEx/coex_compress.gif' | relative_url }}" alt="" title="CoEx"/>
+        <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/publications/CoEx/coex_compress.gif' | relative_url }}" alt="" title="CoEx" data-zoomable/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/publications/CoEx/psm_compress.gif' | relative_url }}" alt="" title="PSMNet"/>
+        <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/publications/CoEx/psm_compress.gif' | relative_url }}" alt="" title="PSMNet" data-zoomable/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/publications/CoEx/ganet_compress.gif' | relative_url }}" alt="" title="GANet"/>
+        <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/publications/CoEx/ganet_compress.gif' | relative_url }}" alt="" title="GANet" data-zoomable/>
     </div>
 </div> 
 <div class="row mt-3">
@@ -135,24 +156,24 @@ Ground truth disparity is represented by vertical solid green line. Predicted di
     </div>
 </div> 
 <div class="caption">
-    Speed comparison with previous works. *The shown images are compressed, so image quality may not reflect the real output of the models
+    Speed comparison with previous works. *The images shown are compressed, so image quality may not reflect the real output of the models.
 </div>
 
 ### Stereo 3D reconstruction
 
 <p align="center">
-  <img width="640" height="336" src="/assets/img/publications/CoEx/recons_compress.gif" title="3d reconstruction">
+  <img width="640" height="336" src="/assets/img/publications/CoEx/recons_compress.gif" title="3d reconstruction" data-zoomable>
   <p style="margin: 0 auto; font-size:0.8em; text-align:center ; max-width: 70%;" markdown="1">
-Reconstructed 3d point cloud computed from the predicted stereo disparity map
+Reconstructed 3d point cloud computed from the predicted stereo disparity map.
   </p>
 </p>
 
 ### Application - visual odometry and point cloud mapping
 
 <p align="center">
-  <img width="640" height="336" src="/assets/img/publications/CoEx/vo+map_compress.gif" title="vo+map">
+  <img width="640" height="336" src="/assets/img/publications/CoEx/vo+map_compress.gif" title="vo+map" data-zoomable>
   <p style="margin: 0 auto; font-size:0.8em; text-align:center ; max-width: 70%;" markdown="1">
-Application test using the computed stereo depth to perform visual odometry and point cloud mapping
+Application test using the computed stereo depth to perform visual odometry and point cloud mapping.
   </p>
 </p>
 

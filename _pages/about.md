@@ -87,7 +87,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
           <li>  
             <i class="fa-li fas fa-map-marker"></i>
             <div class="description">
-              <p class="course">MSC Lab.4F(#3434~#3446) ID B/D(N25), KAIST, 373-1, Guseong-dong, Yuseong-gu, Daejeon, Korea, 305-701</p>
+              <p class="course">MSC Lab.4F #3443 ID B/D(N25), KAIST, 373-1, Guseong-dong, Yuseong-gu, Daejeon, Korea, 305-701</p>
             </div> 
           </li>
         </ul>  
@@ -127,7 +127,7 @@ M.Sc. in Mechanical Engineering
 ### Publications
 <br>
 
-<img align="left" width="200" height="100" style="float:left; padding-right:20px" src="/assets/img/publications/2021_iros_lignet.gif">
+<img align="left" width="200" height="125" style="float:left; padding:20px " src="/assets/img/publications/2021_iros_lignet.gif">
 
 ##### **Correlate-and-Excite: Real-Time Stereo Matching via Guided Cost Volume Excitation**
 **Antyanta Bangunharcana**, Jae Won Cho, Seokju Lee, In So Kweon, Kyung-Soo Kim, Soohyun Kim  
@@ -135,7 +135,7 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021
 
 \[[Paper]()\] &nbsp; \[[Project](/projects/CoEx/index.html)\] &nbsp; \[[Code](https://github.com/antabangun/coex)\]
 
-<img align="left" width="200" height="100" style="float:left; padding-right:20px">
+<img align="left" width="200" height="125" style="float:left; padding:20px ">
 
 ##### **Retaining Image Feature Matching Performance Under Low Light Conditions**
 Pranjay Shyam, **Antyanta Bangunharcana**, Kyung-Soo Kim  
