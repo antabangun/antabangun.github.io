@@ -107,12 +107,12 @@ Ground truth disparity is represented by vertical solid green line. Predicted di
     <div class="col-sm mt-2 mt-md-0">
     <p align="right">
         Top-48
-        <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/publications/CoEx/cost_top48.gif' | relative_url }}" alt="" title="cost top-48" data-zoomable/>
+        <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/publications/CoEx/cost_top48_compress.gif' | relative_url }}" alt="" title="cost top-48" data-zoomable/>
     </p>
     </div>
     <div class="col-sm mt-2 mt-md-0">
     <p align="left">
-        <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/publications/CoEx/cost_top2.gif' | relative_url }}" alt="" title="cost top-2" data-zoomable/>Top-2
+        <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/publications/CoEx/cost_top2_compress.gif' | relative_url }}" alt="" title="cost top-2" data-zoomable/>Top-2
     </p>
     </div>
 </div> 
@@ -125,13 +125,13 @@ Ground truth disparity is represented by vertical solid green line. Predicted di
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/publications/CoEx/coex_compress.gif' | relative_url }}" alt="" title="CoEx" data-zoomable/>
+        <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/publications/CoEx/coex_compress3.gif' | relative_url }}" alt="" title="CoEx" data-zoomable/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/publications/CoEx/psm_compress.gif' | relative_url }}" alt="" title="PSMNet" data-zoomable/>
+        <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/publications/CoEx/psm_compress3.gif' | relative_url }}" alt="" title="PSMNet" data-zoomable/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/publications/CoEx/ganet_compress.gif' | relative_url }}" alt="" title="GANet" data-zoomable/>
+        <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/publications/CoEx/ganet_compress3.gif' | relative_url }}" alt="" title="GANet" data-zoomable/>
     </div>
 </div> 
 <div class="row mt-3">
@@ -158,7 +158,7 @@ Ground truth disparity is represented by vertical solid green line. Predicted di
 ### Stereo 3D reconstruction
 
 <p align="center">
-  <img width="640" height="336" src="/assets/img/publications/CoEx/recons_compress.gif" title="3d reconstruction" data-zoomable>
+  <img width="640" height="336" src="/assets/img/publications/CoEx/recons_compress3.gif" title="3d reconstruction" data-zoomable>
   <p style="margin: 0 auto; font-size:0.8em; text-align:center ; max-width: 70%;" markdown="1">
 Reconstructed 3d point cloud computed from the predicted stereo disparity map.
   </p>
@@ -167,7 +167,7 @@ Reconstructed 3d point cloud computed from the predicted stereo disparity map.
 ### Application - visual odometry and point cloud mapping
 
 <p align="center">
-  <img width="640" height="336" src="/assets/img/publications/CoEx/vo+map_compress.gif" title="vo+map" data-zoomable>
+  <img width="640" height="336" src="/assets/img/publications/CoEx/vo+map_compress3.gif" title="vo+map" data-zoomable>
   <p style="margin: 0 auto; font-size:0.8em; text-align:center ; max-width: 70%;" markdown="1">
 Application test using the computed stereo depth to perform visual odometry and point cloud mapping.
   </p>
