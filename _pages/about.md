@@ -170,4 +170,14 @@ International Conference on Control, Automation and Systems (ICCAS), 2020
 ---
 
 
-### Awards & Honors
+### Awards
+<br>
+
+##### **2nd place [Robotic Vision Scene Understanding Challenge](https://nikosuenderhauf.github.io/roboticvisionchallenges/cvpr2022)**
+**Antyanta Bangunharcana**, Soohyun Kim, Kyung-Soo Kim  
+Spotlighted at [CVPR 2022 Embodied-AI Workshop](https://embodied-ai.org/)
+
+##### **Honorable Mention [Argoverse Stereo Depth Estimation Challenge](https://www.argoverse.org/tasks.html)**
+**Antyanta Bangunharcana**, Soohyun Kim, Kyung-Soo Kim  
+Spotlighted at [CVPR 2022 Workshop on Autonomous Driving](https://cvpr2022.wad.vision/)
+
