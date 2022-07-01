@@ -1,4 +1,4 @@
-# git add -A
-# git commit -m "deploy"
-# git push origin master
+git add -A
+git commit -m "deploy"
+git push origin master
 ./bin/deploy

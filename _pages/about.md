@@ -127,37 +127,13 @@ M.Sc. in Mechanical Engineering
 ### Publications
 <br>
 
-<img align="left" width="200" height="125" style="float:left; padding:20px ">
-
-##### **Revisiting the Receptive Field of Conv-GRU in DROID-SLAM**
-**Antyanta Bangunharcana**, Soohyun Kim, Kyung-Soo Kim 
-Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022
-
-\[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/VOCVALC/html/Bangunharcana_Revisiting_the_Receptive_Field_of_Conv-GRU_in_DROID-SLAM_CVPRW_2022_paper.html)\]
-
-<img align="left" width="200" height="125" style="float:left; padding:20px ">
-
-##### **Robotic Mapping Approach under Illumination-Variant Environments at Planetary Construction Sites**
-Sungchul Hong, Pranjay Shyam, **Antyanta Bangunharcana**, Hyuseoung Shin 
-Remote Sensing, 2022
-
-\[[Paper](https://www.mdpi.com/2072-4292/14/4/1027)\]
-
-<img align="left" width="200" height="125" style="float:left; padding:20px ">
-
-##### **Visual SLAM-based robotic mapping method for planetary construction**
-Sungchul Hong, **Antyanta Bangunharcana**, Jae-Min Park, Minseong Choi, Hyu-Soung Shin 
-Sensors, 2021
-
-\[[Paper](https://www.mdpi.com/1424-8220/21/22/7715)\]
-
 <img align="left" width="200" height="125" style="float:left; padding:20px " src="/assets/img/publications/2021_iros_lignet.gif">
 
 ##### **Correlate-and-Excite: Real-Time Stereo Matching via Guided Cost Volume Excitation**
 **Antyanta Bangunharcana**, Jae Won Cho, Seokju Lee, In So Kweon, Kyung-Soo Kim, Soohyun Kim  
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021
 
-\[[Paper](https://ieeexplore.ieee.org/abstract/document/9635909)\] &nbsp; \[[Project](/projects/CoEx/index.html)\] &nbsp; \[[Code](https://github.com/antabangun/coex)\]
+\[[Paper]()\] &nbsp; \[[Project](/projects/CoEx/index.html)\] &nbsp; \[[Code](https://github.com/antabangun/coex)\]
 
 <img align="left" width="200" height="125" style="float:left; padding:20px ">
 
@@ -168,6 +144,3 @@ International Conference on Control, Automation and Systems (ICCAS), 2020
 \[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9268426)\]
 
 ---
-
-
-### Awards & Honors
