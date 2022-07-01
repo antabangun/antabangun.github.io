@@ -130,7 +130,7 @@ M.Sc. in Mechanical Engineering
 <img align="left" width="200" height="125" style="float:left; padding:20px ">
 
 ##### **Revisiting the Receptive Field of Conv-GRU in DROID-SLAM**
-**Antyanta Bangunharcana**, Soohyun Kim, Kyung-Soo Kim 
+**Antyanta Bangunharcana**, Soohyun Kim, Kyung-Soo Kim  
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022
 
 \[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/VOCVALC/html/Bangunharcana_Revisiting_the_Receptive_Field_of_Conv-GRU_in_DROID-SLAM_CVPRW_2022_paper.html)\]
@@ -138,7 +138,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 <img align="left" width="200" height="125" style="float:left; padding:20px ">
 
 ##### **Robotic Mapping Approach under Illumination-Variant Environments at Planetary Construction Sites**
-Sungchul Hong, Pranjay Shyam, **Antyanta Bangunharcana**, Hyuseoung Shin 
+Sungchul Hong, Pranjay Shyam, **Antyanta Bangunharcana**, Hyuseoung Shin  
 Remote Sensing, 2022
 
 \[[Paper](https://www.mdpi.com/2072-4292/14/4/1027)\]
@@ -146,7 +146,7 @@ Remote Sensing, 2022
 <img align="left" width="200" height="125" style="float:left; padding:20px ">
 
 ##### **Visual SLAM-based robotic mapping method for planetary construction**
-Sungchul Hong, **Antyanta Bangunharcana**, Jae-Min Park, Minseong Choi, Hyu-Soung Shin 
+Sungchul Hong, **Antyanta Bangunharcana**, Jae-Min Park, Minseong Choi, Hyu-Soung Shin  
 Sensors, 2021
 
 \[[Paper](https://www.mdpi.com/1424-8220/21/22/7715)\]
