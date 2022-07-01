@@ -21,7 +21,7 @@ nav: true
 
 <img align="left" width="250" height="125" style="float:left; padding-right:30px" >
 
-##### **Revisiting the Receptive Field of Conv-GRU in DROID-SLAM**
+###### **Revisiting the Receptive Field of Conv-GRU in DROID-SLAM**
 **Antyanta Bangunharcana**, Soohyun Kim, Kyung-Soo Kim  
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022
 
@@ -29,7 +29,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 
 <img align="left" width="250" height="125" style="float:left; padding-right:30px" >
 
-##### **Robotic Mapping Approach under Illumination-Variant Environments at Planetary Construction Sites**
+###### **Robotic Mapping Approach under Illumination-Variant Environments at Planetary Construction Sites**
 Sungchul Hong, Pranjay Shyam, **Antyanta Bangunharcana**, Hyuseoung Shin  
 Remote Sensing, 2022
 
@@ -40,7 +40,7 @@ Remote Sensing, 2022
 
 <img align="left" width="250" height="125" style="float:left; padding-right:30px" >
 
-##### **Visual SLAM-based robotic mapping method for planetary construction**
+###### **Visual SLAM-based robotic mapping method for planetary construction**
 Sungchul Hong, **Antyanta Bangunharcana**, Jae-Min Park, Minseong Choi, Hyu-Soung Shin  
 Sensors, 2021
 
