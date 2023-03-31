@@ -21,6 +21,14 @@ nav: true
 
 <img align="left" width="250" height="125" style="float:left; padding-right:30px" >
 
+###### **DualRefine: Self-Supervised Depth and Pose Estimation Through Iterative Epipolar Sampling and Refinement Toward Equilibrium**
+**Antyanta Bangunharcana**, Ahmed Magd Aly, Kyung-Soo Kim  
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023
+
+\[[Paper]()\] &nbsp; \[[Project](/projects/DualRefine/index.html)\] &nbsp; \[[Code](https://github.com/antabangun/DualRefine)\]
+
+<img align="left" width="250" height="125" style="float:left; padding:30px ">
+
 ###### **Revisiting the Receptive Field of Conv-GRU in DROID-SLAM**
 **Antyanta Bangunharcana**, Soohyun Kim, Kyung-Soo Kim  
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022
