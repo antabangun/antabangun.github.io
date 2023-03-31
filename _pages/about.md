@@ -47,11 +47,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a Ph.D. student advised by Prof. Soohyun Kim and Prof. KyungSoo Kim, at the Mechatronics, Systems, and Control Lab in the Department of Mechanical Engineering at KAIST. My current research interests lie in the general areas of 3D computer vision applications with a particular focus on:
+I am currently pursuing my Ph.D. under the guidance of Prof. Soohyun Kim and Prof. KyungSoo Kim at the Mechatronics, Systems, and Control Lab within the Department of Mechanical Engineering at KAIST. My research interests are centered around 3D computer vision applications, with a specific emphasis on the following areas:
 
-  - Stereo vision
-  - SLAM
-  - Self-supervised learning
+    Depth estimation using cameras: Self-supervised, monocular and multi-view stereo
+    Visual localization: Odometry, SLAM, and long-term visual localization
 
 <br>
 
