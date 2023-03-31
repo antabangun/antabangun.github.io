@@ -2,7 +2,7 @@
 layout: page
 title: CoEx 
 description: "Correlate-and-Excite: Real-Time Stereo Matching via Guided Cost Volume Excitation"
-img: https://www.dropbox.com/s/1vflanw5fcg71xr/2021_iros_lignet.gif
+img: https://dl.dropboxusercontent.com/s/1vflanw5fcg71xr/2021_iros_lignet.gif
 importance: 1
 category: Research
 ---
