@@ -127,7 +127,7 @@ M.Sc. in Mechanical Engineering
 ### Publications
 <br>
 
-<img align="left" width="200" height="125" style="float:left; padding:20px ">
+<img align="left" width="200" height="125" style="float:left; padding:20px " src="https://dl.dropboxusercontent.com/s/7zpf026iwnc5vt9/DualRefine.PNG">
 
 ##### **DualRefine: Self-Supervised Depth and Pose Estimation Through Iterative Epipolar Sampling and Refinement Toward Equilibrium**
 **Antyanta Bangunharcana**, Ahmed Magd Aly, Kyung-Soo Kim  
@@ -135,7 +135,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 
 \[[Paper]()\] &nbsp; \[[Project](/projects/DualRefine/index.html)\] &nbsp; \[[Code](https://github.com/antabangun/DualRefine)\]
 
-<img align="left" width="200" height="125" style="float:left; padding:20px ">
+<img align="left" width="200" height="125" style="float:left; padding:20px " src="https://dl.dropboxusercontent.com/s/pvg05u9c5akboot/RevisitingDROID.PNG">
 
 ##### **Revisiting the Receptive Field of Conv-GRU in DROID-SLAM**
 **Antyanta Bangunharcana**, Soohyun Kim, Kyung-Soo Kim  
@@ -167,7 +167,7 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021
 
 \[[Paper](https://ieeexplore.ieee.org/abstract/document/9635909)\] &nbsp; \[[Project](/projects/CoEx/index.html)\] &nbsp; \[[Code](https://github.com/antabangun/coex)\]
 
-<img align="left" width="200" height="125" style="float:left; padding:20px ">
+<img align="left" width="200" height="125" style="float:left; padding:20px " src="https://dl.dropboxusercontent.com/s/dmoumvz29kj7w9f/Retaining.PNG>
 
 ##### **Retaining Image Feature Matching Performance Under Low Light Conditions**
 Pranjay Shyam, **Antyanta Bangunharcana**, Kyung-Soo Kim  
