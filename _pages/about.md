@@ -159,7 +159,7 @@ Sensors, 2021
 
 \[[Paper](https://www.mdpi.com/1424-8220/21/22/7715)\]
 
-<img align="left" width="200" height="125" style="float:left; padding:20px " src="/assets/img/publications/2021_iros_lignet.gif">
+<img align="left" width="200" height="125" style="float:left; padding:20px " src="https://www.dropbox.com/s/1vflanw5fcg71xr/2021_iros_lignet.gif?dl=0">
 
 ##### **Correlate-and-Excite: Real-Time Stereo Matching via Guided Cost Volume Excitation**
 **Antyanta Bangunharcana**, Jae Won Cho, Seokju Lee, In So Kweon, Kyung-Soo Kim, Soohyun Kim  

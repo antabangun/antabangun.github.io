@@ -2,7 +2,7 @@
 layout: page
 title: DualRefine
 description: "DualRefine: Self-Supervised Depth and Pose Estimation Through Iterative Epipolar Sampling and Refinement Toward Equilibrium"
-img: /assets/img/publications/2021_iros_lignet.gif
+img: https://www.dropbox.com/s/1vflanw5fcg71xr/2021_iros_lignet.gif?dl=0
 importance: 1
 category: Research
 ---
