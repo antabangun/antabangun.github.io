@@ -152,7 +152,7 @@ M.Sc. in Mechanical Engineering
 </div>
 
 <div class="content-container">
-  <img width="200" style="padding-right:20px" src="your_image_url_here">
+  <img width="200" style="padding-right:20px" src="https://dl.dropboxusercontent.com/s/jwi18oaakwqjyod/blank.PNG">
 
   <div>
     <h5><strong>Robotic Mapping Approach under Illumination-Variant Environments at Planetary Construction Sites</strong></h5>
@@ -164,7 +164,7 @@ M.Sc. in Mechanical Engineering
 </div>
 
 <div class="content-container">
-  <img width="200" style="padding-right:20px" src="your_image_url_here">
+  <img width="200" style="padding-right:20px" src="https://dl.dropboxusercontent.com/s/jwi18oaakwqjyod/blank.PNG">
 
   <div>
     <h5><strong>Visual SLAM-based robotic mapping method for planetary construction</strong></h5>

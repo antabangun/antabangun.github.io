@@ -53,7 +53,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 </div>
 
 <div class="content-container">
-  <img width="250" style="padding-right:30px" src="your_image_url_here">
+  <img width="250" style="padding-right:30px" src="https://dl.dropboxusercontent.com/s/jwi18oaakwqjyod/blank.PNG">
 
   <div>
     <h6><strong>Robotic Mapping Approach under Illumination-Variant Environments at Planetary Construction Sites</strong></h6>
@@ -68,7 +68,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 <p style="margin: 0 auto; font-size:2em; color: silver; font-weight: 900; text-align:right ; max-width: 70%;">2021</p>
 
 <div class="content-container">
-  <img width="250" style="padding-right:30px" src="your_image_url_here">
+  <img width="250" style="padding-right:30px" src="https://dl.dropboxusercontent.com/s/jwi18oaakwqjyod/blank.PNG">
 
   <div>
     <h6><strong>Visual SLAM-based robotic mapping method for planetary construction</strong></h6>
