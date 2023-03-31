@@ -17,9 +17,9 @@ nav: true
 </div> -->
 
 ---
-<p style="margin: 0 auto; font-size:2em; color: silver; font-weight: 900; text-align:right ; max-width: 70%;">2022</p>
+<p style="margin: 0 auto; font-size:2em; color: silver; font-weight: 900; text-align:right ; max-width: 70%;">2023</p>
 
-<img align="left" width="250" height="125" style="float:left; padding-right:30px" >
+<img align="left" width="250" height="125" style="float:left; padding-right:30px" src="https://dl.dropboxusercontent.com/s/7zpf026iwnc5vt9/DualRefine.PNG">
 
 ###### **DualRefine: Self-Supervised Depth and Pose Estimation Through Iterative Epipolar Sampling and Refinement Toward Equilibrium**
 **Antyanta Bangunharcana**, Ahmed Magd Aly, Kyung-Soo Kim  
@@ -27,7 +27,10 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 
 \[[Paper]()\] &nbsp; \[[Project](/projects/DualRefine/index.html)\] &nbsp; \[[Code](https://github.com/antabangun/DualRefine)\]
 
-<img align="left" width="250" height="125" style="float:left; padding:30px ">
+---
+<p style="margin: 0 auto; font-size:2em; color: silver; font-weight: 900; text-align:right ; max-width: 70%;">2022</p>
+
+<img align="left" width="250" height="125" style="float:left; padding:30px " src="https://dl.dropboxusercontent.com/s/pvg05u9c5akboot/RevisitingDROID.PNG">
 
 ###### **Revisiting the Receptive Field of Conv-GRU in DROID-SLAM**
 **Antyanta Bangunharcana**, Soohyun Kim, Kyung-Soo Kim  
@@ -65,7 +68,7 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021
 ---
 <p style="margin: 0 auto; font-size:2em; color: silver; font-weight: 900; text-align:right ; max-width: 70%;">2020</p>
 
-<img align="left" width="250" height="125" style="float:left; padding-right:30px" >
+<img align="left" width="250" height="125" style="float:left; padding-right:30px" src="https://dl.dropboxusercontent.com/s/dmoumvz29kj7w9f/Retaining.PNG>
 
 ###### **Retaining Image Feature Matching Performance Under Low Light Conditions**
 Pranjay Shyam, **Antyanta Bangunharcana**, Kyung-Soo Kim  
