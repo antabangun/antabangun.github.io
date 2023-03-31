@@ -165,7 +165,7 @@ M.Sc. in Mechanical Engineering
 
 
 <div class="content-container">
-  <img width="200" style="padding-right:20px" src="https://dl.dropboxusercontent.com/s/jwi18oaakwqjyod/blank.PNG">
+  <img width="200" style="padding-right:20px" src="https://dl.dropboxusercontent.com/s/8ygg1xtuqb1pg7s/kict0.PNG">
 
   <div>
     <h5><strong>Visual SLAM-based robotic mapping method for planetary construction</strong></h5>
