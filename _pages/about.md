@@ -167,7 +167,7 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021
 
 \[[Paper](https://ieeexplore.ieee.org/abstract/document/9635909)\] &nbsp; \[[Project](/projects/CoEx/index.html)\] &nbsp; \[[Code](https://github.com/antabangun/coex)\]
 
-<img align="left" width="200" height="125" style="float:left; padding:20px " src="https://dl.dropboxusercontent.com/s/dmoumvz29kj7w9f/Retaining.PNG>
+<img align="left" width="200" height="125" style="float:left; padding:20px " src="https://dl.dropboxusercontent.com/s/dmoumvz29kj7w9f/Retaining.PNG">
 
 ##### **Retaining Image Feature Matching Performance Under Low Light Conditions**
 Pranjay Shyam, **Antyanta Bangunharcana**, Kyung-Soo Kim  

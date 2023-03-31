@@ -68,7 +68,7 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021
 ---
 <p style="margin: 0 auto; font-size:2em; color: silver; font-weight: 900; text-align:right ; max-width: 70%;">2020</p>
 
-<img align="left" width="250" height="125" style="float:left; padding-right:30px" src="https://dl.dropboxusercontent.com/s/dmoumvz29kj7w9f/Retaining.PNG>
+<img align="left" width="250" height="125" style="float:left; padding-right:30px" src="https://dl.dropboxusercontent.com/s/dmoumvz29kj7w9f/Retaining.PNG">
 
 ###### **Retaining Image Feature Matching Performance Under Low Light Conditions**
 Pranjay Shyam, **Antyanta Bangunharcana**, Kyung-Soo Kim  
