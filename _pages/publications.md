@@ -31,13 +31,11 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
   <div>
     <h6><strong>DualRefine: Self-Supervised Depth and Pose Estimation Through Iterative Epipolar Sampling and Refinement Toward Equilibrium</strong></h6>
     <strong>Antyanta Bangunharcana</strong>, Ahmed Magd Aly, Kyung-Soo Kim<br>
-    Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023
+    Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023<br>
+    
+    [<a href="#">Paper</a>] &nbsp; [<a href="/projects/DualRefine/index.html">Project</a>] &nbsp; [<a href="https://github.com/antabangun/DualRefine">Code</a>]
   </div>
 </div>
-
-
-
-\[[Paper]()\] &nbsp; \[[Project](/projects/DualRefine/index.html)\] &nbsp; \[[Code](https://github.com/antabangun/DualRefine)\]
 
 ---
 <p style="margin: 0 auto; font-size:2em; color: silver; font-weight: 900; text-align:right ; max-width: 70%;">2022</p>
