@@ -149,6 +149,7 @@ M.Sc. in Mechanical Engineering
 
     [<a href="https://openaccess.thecvf.com/content/CVPR2022W/VOCVALC/html/Bangunharcana_Revisiting_the_Receptive_Field_of_Conv-GRU_in_DROID-SLAM_CVPRW_2022_paper.html">Paper</a>]
   </div>
+</div>
 
 <div class="content-container">
   <img width="200" style="padding-right:20px" src="your_image_url_here">
@@ -161,8 +162,6 @@ M.Sc. in Mechanical Engineering
     [<a href="https://www.mdpi.com/2072-4292/14/4/1027">Paper</a>]
   </div>
 </div>
-
-<p style="margin: 0 auto; font-size:2em; color: silver; font-weight: 900; text-align:right ; max-width: 70%;">2021</p>
 
 <div class="content-container">
   <img width="200" style="padding-right:20px" src="your_image_url_here">
