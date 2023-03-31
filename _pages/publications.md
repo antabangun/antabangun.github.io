@@ -19,11 +19,23 @@ nav: true
 ---
 <p style="margin: 0 auto; font-size:2em; color: silver; font-weight: 900; text-align:right ; max-width: 70%;">2023</p>
 
-<img align="left" width="250" height="125" style="float:left; padding-right:30px" src="https://dl.dropboxusercontent.com/s/7zpf026iwnc5vt9/DualRefine.PNG">
+<!-- <img align="left" width="250" height="125" style="float:left; padding-right:30px" src="https://dl.dropboxusercontent.com/s/7zpf026iwnc5vt9/DualRefine.PNG">
 
 ###### **DualRefine: Self-Supervised Depth and Pose Estimation Through Iterative Epipolar Sampling and Refinement Toward Equilibrium**
 **Antyanta Bangunharcana**, Ahmed Magd Aly, Kyung-Soo Kim  
-Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023 -->
+
+<div class="content-container">
+  <img width="250" height="125" style="padding-right:30px" src="https://dl.dropboxusercontent.com/s/7zpf026iwnc5vt9/DualRefine.PNG">
+  
+  <div>
+    <h6><strong>DualRefine: Self-Supervised Depth and Pose Estimation Through Iterative Epipolar Sampling and Refinement Toward Equilibrium</strong></h6>
+    <strong>Antyanta Bangunharcana</strong>, Ahmed Magd Aly, Kyung-Soo Kim<br>
+    Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023
+  </div>
+</div>
+
+
 
 \[[Paper]()\] &nbsp; \[[Project](/projects/DualRefine/index.html)\] &nbsp; \[[Code](https://github.com/antabangun/DualRefine)\]
 
