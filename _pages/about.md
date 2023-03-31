@@ -139,6 +139,7 @@ M.Sc. in Mechanical Engineering
   </div>
 </div>
 
+---
 <div class="content-container">
   <img width="200" height="100" style="padding-right:20px" src="https://dl.dropboxusercontent.com/s/pvg05u9c5akboot/RevisitingDROID.PNG">
 
@@ -163,6 +164,7 @@ M.Sc. in Mechanical Engineering
   </div>
 </div>
 
+---
 <div class="content-container">
   <img width="200" height="100" style="padding-right:20px" src="https://dl.dropboxusercontent.com/s/jwi18oaakwqjyod/blank.PNG">
 
@@ -187,6 +189,7 @@ M.Sc. in Mechanical Engineering
   </div>
 </div>
 
+---
 <div class="content-container">
   <img width="200" height="100" style="padding-right:20px" src="https://dl.dropboxusercontent.com/s/dmoumvz29kj7w9f/Retaining.PNG">
 
