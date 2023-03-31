@@ -40,49 +40,70 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 ---
 <p style="margin: 0 auto; font-size:2em; color: silver; font-weight: 900; text-align:right ; max-width: 70%;">2022</p>
 
-<img align="left" width="250" height="125" style="float:left; padding:30px " src="https://dl.dropboxusercontent.com/s/pvg05u9c5akboot/RevisitingDROID.PNG">
+<div class="content-container">
+  <img width="250" height="125" style="padding-right:30px" src="https://dl.dropboxusercontent.com/s/pvg05u9c5akboot/RevisitingDROID.PNG">
 
-###### **Revisiting the Receptive Field of Conv-GRU in DROID-SLAM**
-**Antyanta Bangunharcana**, Soohyun Kim, Kyung-Soo Kim  
-Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022
+  <div>
+    <h6><strong>Revisiting the Receptive Field of Conv-GRU in DROID-SLAM</strong></h6>
+    <strong>Antyanta Bangunharcana</strong>, Soohyun Kim, Kyung-Soo Kim<br>
+    Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022<br>
 
-\[[Paper](https://openaccess.thecvf.com/content/CVPR2022W/VOCVALC/html/Bangunharcana_Revisiting_the_Receptive_Field_of_Conv-GRU_in_DROID-SLAM_CVPRW_2022_paper.html)\]
+    [<a href="https://openaccess.thecvf.com/content/CVPR2022W/VOCVALC/html/Bangunharcana_Revisiting_the_Receptive_Field_of_Conv-GRU_in_DROID-SLAM_CVPRW_2022_paper.html">Paper</a>]
+  </div>
+</div>
 
-<img align="left" width="250" height="125" style="float:left; padding-right:30px" >
+<div class="content-container">
+  <img width="250" height="125" style="padding-right:30px" src="your_image_url_here">
 
-###### **Robotic Mapping Approach under Illumination-Variant Environments at Planetary Construction Sites**
-Sungchul Hong, Pranjay Shyam, **Antyanta Bangunharcana**, Hyuseoung Shin  
-Remote Sensing, 2022
+  <div>
+    <h6><strong>Robotic Mapping Approach under Illumination-Variant Environments at Planetary Construction Sites</strong></h6>
+    Sungchul Hong, Pranjay Shyam, <strong>Antyanta Bangunharcana</strong>, Hyuseoung Shin<br>
+    Remote Sensing, 2022<br>
 
-\[[Paper](https://www.mdpi.com/2072-4292/14/4/1027)\]
+    [<a href="https://www.mdpi.com/2072-4292/14/4/1027">Paper</a>]
+  </div>
+</div>
 
 ---
 <p style="margin: 0 auto; font-size:2em; color: silver; font-weight: 900; text-align:right ; max-width: 70%;">2021</p>
 
-<img align="left" width="250" height="125" style="float:left; padding-right:30px" >
+<div class="content-container">
+  <img width="250" height="125" style="padding-right:30px" src="your_image_url_here">
 
-###### **Visual SLAM-based robotic mapping method for planetary construction**
-Sungchul Hong, **Antyanta Bangunharcana**, Jae-Min Park, Minseong Choi, Hyu-Soung Shin  
-Sensors, 2021
+  <div>
+    <h6><strong>Visual SLAM-based robotic mapping method for planetary construction</strong></h6>
+    Sungchul Hong, <strong>Antyanta Bangunharcana</strong>, Jae-Min Park, Minseong Choi, Hyu-Soung Shin<br>
+    Sensors, 2021<br>
 
-\[[Paper](https://www.mdpi.com/1424-8220/21/22/7715)\]
+    [<a href="https://www.mdpi.com/1424-8220/21/22/7715">Paper</a>]
+  </div>
+</div>
 
-<img align="left" width="250" height="125" style="float:left; padding-right:30px" src="https://dl.dropboxusercontent.com/s/1vflanw5fcg71xr/2021_iros_lignet.gif">
+<div class="content-container">
+  <img width="250" height="125" style="padding-right:30px" src="https://dl.dropboxusercontent.com/s/1vflanw5fcg71xr/2021_iros_lignet.gif">
 
-###### **Correlate-and-Excite: Real-Time Stereo Matching via Guided Cost Volume Excitation**
-**Antyanta Bangunharcana**, Jae Won Cho, Seokju Lee, In So Kweon, Kyung-Soo Kim, Soohyun Kim  
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021  
+  <div>
+    <h6><strong>Correlate-and-Excite: Real-Time Stereo Matching via Guided Cost Volume Excitation</strong></h6>
+    <strong>Antyanta Bangunharcana</strong>, Jae Won Cho, Seokju Lee, In So Kweon, Kyung-Soo Kim, Soohyun Kim<br>
+    IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021<br>
 
-\[[Paper](https://ieeexplore.ieee.org/abstract/document/9635909)\] &nbsp; \[[Project](/projects/CoEx/index.html)\] &nbsp; \[[Code](https://github.com/antabangun/coex)\]
+    [<a href="https://ieeexplore.ieee.org/abstract/document/9635909">Paper</a>] &nbsp; [<a href="/projects/CoEx/index.html">Project</a>] &nbsp; [<a href="https://github.com/antabangun/coex">Code</a>]
+  </div>
+</div>
 
 ---
 <p style="margin: 0 auto; font-size:2em; color: silver; font-weight: 900; text-align:right ; max-width: 70%;">2020</p>
 
-<img align="left" width="250" height="125" style="float:left; padding-right:30px" src="https://dl.dropboxusercontent.com/s/dmoumvz29kj7w9f/Retaining.PNG">
+<div class="content-container">
+  <img width="250" height="125" style="padding-right:30px" src="https://dl.dropboxusercontent.com/s/dmoumvz29kj7w9f/Retaining.PNG">
 
-###### **Retaining Image Feature Matching Performance Under Low Light Conditions**
-Pranjay Shyam, **Antyanta Bangunharcana**, Kyung-Soo Kim  
-International Conference on Control, Automation and Systems (ICCAS), 2020 
+  <div>
+    <h6><strong>Retaining Image Feature Matching Performance Under Low Light Conditions</strong></h6>
+    Pranjay Shyam<span class="contrib">*</span>, <strong>Antyanta Bangunharcana</strong><span class="contrib">*</span>, Kyung-Soo Kim<br>
+    International Conference on Control, Automation and Systems (ICCAS), 2020<br>
 
-\[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9268426)\]
+    [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9268426">Paper</a>]
+  </div>
+</div>
+
 
