@@ -203,29 +203,14 @@ M.Sc. in Mechanical Engineering
 
 ---
 
+
 ### Awards
 <br>
 
-<div class="content-container">
-  <div>
-    <h5><strong>2nd place [Robotic Vision Scene Understanding Challenge](https://nikosuenderhauf.github.io/roboticvisionchallenges/cvpr2022)</strong></h5>
-    <strong>Antyanta Bangunharcana</strong>, Soohyun Kim, Kyung-Soo Kim<br>
-    Spotlighted at [CVPR 2022 Embodied-AI Workshop](https://embodied-ai.org/)
-  </div>
-</div>
+##### **2nd place [Robotic Vision Scene Understanding Challenge](https://nikosuenderhauf.github.io/roboticvisionchallenges/cvpr2022)**
+**Antyanta Bangunharcana**, Soohyun Kim, Kyung-Soo Kim  
+Spotlighted at [CVPR 2022 Embodied-AI Workshop](https://embodied-ai.org/)
 
-<div class="content-container">
-  <div>
-    <h5><strong>Honorable Mention (=2nd place) [Argoverse Stereo Depth Estimation Challenge](https://www.argoverse.org/tasks.html)</strong></h5>
-    <strong>Antyanta Bangunharcana</strong>, Soohyun Kim, Kyung-Soo Kim<br>
-    Spotlighted at [CVPR 2022 Workshop on Autonomous Driving](https://cvpr2022.wad.vision/)
-  </div>
-</div>
-
-<div class="content-container">
-  <div>
-    <h5><strong>KAIST International Student Scholarship Awardee</strong></h5>
-    <strong>Antyanta Bangunharcana</strong><br>
-    Awarded by the Korea Advanced Institute of Science and Technology (KAIST)
-  </div>
-</div>
+##### **Honorable Mention [Argoverse Stereo Depth Estimation Challenge](https://www.argoverse.org/tasks.html)**
+**Antyanta Bangunharcana**, Soohyun Kim, Kyung-Soo Kim  
+Spotlighted at [CVPR 2022 Workshop on Autonomous Driving](https://cvpr2022.wad.vision/)
