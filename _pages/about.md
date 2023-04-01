@@ -127,7 +127,7 @@ M.Sc. in Mechanical Engineering
 <br>
 
 <div class="content-container">
-  <img width="200" style="padding-right:20px" src="https://dl.dropboxusercontent.com/s/7zpf026iwnc5vt9/DualRefine.PNG">
+  ![DualRefine Project Image](https://dl.dropboxusercontent.com/s/7zpf026iwnc5vt9/DualRefine.PNG){: width="200" style="padding-right:20px"}
   
   <div>
     <h5><strong>DualRefine: Self-Supervised Depth and Pose Estimation Through Iterative Epipolar Sampling and Refinement Toward Equilibrium</strong></h5>
@@ -140,7 +140,7 @@ M.Sc. in Mechanical Engineering
 
 
 <div class="content-container">
-  <img width="200" style="padding-right:20px" src="https://dl.dropboxusercontent.com/s/pvg05u9c5akboot/RevisitingDROID.PNG">
+  ![Revisiting DROID Project Image](https://dl.dropboxusercontent.com/s/pvg05u9c5akboot/RevisitingDROID.PNG){: width="200" style="padding-right:20px"}
 
   <div>
     <h5><strong>Revisiting the Receptive Field of Conv-GRU in DROID-SLAM</strong></h5>
@@ -152,7 +152,7 @@ M.Sc. in Mechanical Engineering
 </div>
 
 <div class="content-container">
-  <img width="200" style="padding-right:20px" src="https://dl.dropboxusercontent.com/s/jwi18oaakwqjyod/blank.PNG">
+  ![Robotic Mapping Image](https://dl.dropboxusercontent.com/s/nqfobkzzvfoapid/kict1.PNG){: width="200" style="padding-right:20px"}
 
   <div>
     <h5><strong>Robotic Mapping Approach under Illumination-Variant Environments at Planetary Construction Sites</strong></h5>
@@ -165,7 +165,7 @@ M.Sc. in Mechanical Engineering
 
 
 <div class="content-container">
-  <img width="200" style="padding-right:20px" src="https://dl.dropboxusercontent.com/s/8ygg1xtuqb1pg7s/kict0.PNG">
+  ![Visual SLAM Image](https://dl.dropboxusercontent.com/s/8ygg1xtuqb1pg7s/kict0.PNG){: width="200" style="padding-right:20px"}
 
   <div>
     <h5><strong>Visual SLAM-based robotic mapping method for planetary construction</strong></h5>
@@ -177,7 +177,7 @@ M.Sc. in Mechanical Engineering
 </div>
 
 <div class="content-container">
-  <img width="200" style="padding-right:20px" src="https://dl.dropboxusercontent.com/s/1vflanw5fcg71xr/2021_iros_lignet.gif">
+  ![Correlate-and-Excite Project Image](https://dl.dropboxusercontent.com/s/1vflanw5fcg71xr/2021_iros_lignet.gif){: width="200" style="padding-right:20px"}
 
   <div>
     <h5><strong>Correlate-and-Excite: Real-Time Stereo Matching via Guided Cost Volume Excitation</strong></h5>
@@ -190,7 +190,7 @@ M.Sc. in Mechanical Engineering
 
 
 <div class="content-container">
-  <img width="200" style="padding-right:20px" src="https://dl.dropboxusercontent.com/s/dmoumvz29kj7w9f/Retaining.PNG">
+  ![Retaining Image Feature Matching Performance Image](https://dl.dropboxusercontent.com/s/dmoumvz29kj7w9f/Retaining.PNG){: width="200" style="padding-right:20px"}
 
   <div>
     <h5><strong>Retaining Image Feature Matching Performance Under Low Light Conditions</strong></h5>
@@ -203,15 +203,29 @@ M.Sc. in Mechanical Engineering
 
 ---
 
-
 ### Awards
 <br>
 
-##### **2nd place [Robotic Vision Scene Understanding Challenge](https://nikosuenderhauf.github.io/roboticvisionchallenges/cvpr2022)**
-**Antyanta Bangunharcana**, Soohyun Kim, Kyung-Soo Kim  
-Spotlighted at [CVPR 2022 Embodied-AI Workshop](https://embodied-ai.org/)
+<div class="content-container">
+  <div>
+    <h5><strong>2nd place [Robotic Vision Scene Understanding Challenge](https://nikosuenderhauf.github.io/roboticvisionchallenges/cvpr2022)</strong></h5>
+    <strong>Antyanta Bangunharcana</strong>, Soohyun Kim, Kyung-Soo Kim<br>
+    Spotlighted at [CVPR 2022 Embodied-AI Workshop](https://embodied-ai.org/)
+  </div>
+</div>
 
-##### **Honorable Mention [Argoverse Stereo Depth Estimation Challenge](https://www.argoverse.org/tasks.html)**
-**Antyanta Bangunharcana**, Soohyun Kim, Kyung-Soo Kim  
-Spotlighted at [CVPR 2022 Workshop on Autonomous Driving](https://cvpr2022.wad.vision/)
+<div class="content-container">
+  <div>
+    <h5><strong>Honorable Mention (=2nd place) [Argoverse Stereo Depth Estimation Challenge](https://www.argoverse.org/tasks.html)</strong></h5>
+    <strong>Antyanta Bangunharcana</strong>, Soohyun Kim, Kyung-Soo Kim<br>
+    Spotlighted at [CVPR 2022 Workshop on Autonomous Driving](https://cvpr2022.wad.vision/)
+  </div>
+</div>
 
+<div class="content-container">
+  <div>
+    <h5><strong>KAIST International Student Scholarship Awardee</strong></h5>
+    <strong>Antyanta Bangunharcana</strong><br>
+    Awarded by the Korea Advanced Institute of Science and Technology (KAIST)
+  </div>
+</div>
