@@ -127,7 +127,7 @@ M.Sc. in Mechanical Engineering
 <br>
 
 <div class="content-container">
-  ![DualRefine Project Image](https://dl.dropboxusercontent.com/s/7zpf026iwnc5vt9/DualRefine.PNG){: width="200" style="padding-right:20px"}
+  <img width="200" style="padding-right:20px" src="https://dl.dropboxusercontent.com/s/7zpf026iwnc5vt9/DualRefine.PNG">
   
   <div>
     <h5><strong>DualRefine: Self-Supervised Depth and Pose Estimation Through Iterative Epipolar Sampling and Refinement Toward Equilibrium</strong></h5>
@@ -140,7 +140,7 @@ M.Sc. in Mechanical Engineering
 
 
 <div class="content-container">
-  ![Revisiting DROID Project Image](https://dl.dropboxusercontent.com/s/pvg05u9c5akboot/RevisitingDROID.PNG){: width="200" style="padding-right:20px"}
+  <img width="200" style="padding-right:20px" src="https://dl.dropboxusercontent.com/s/pvg05u9c5akboot/RevisitingDROID.PNG">
 
   <div>
     <h5><strong>Revisiting the Receptive Field of Conv-GRU in DROID-SLAM</strong></h5>
@@ -152,7 +152,7 @@ M.Sc. in Mechanical Engineering
 </div>
 
 <div class="content-container">
-  ![Robotic Mapping Image](https://dl.dropboxusercontent.com/s/nqfobkzzvfoapid/kict1.PNG){: width="200" style="padding-right:20px"}
+  <img width="200" style="padding-right:20px" src="https://dl.dropboxusercontent.com/s/nqfobkzzvfoapid/kict1.PNG">
 
   <div>
     <h5><strong>Robotic Mapping Approach under Illumination-Variant Environments at Planetary Construction Sites</strong></h5>
@@ -165,7 +165,7 @@ M.Sc. in Mechanical Engineering
 
 
 <div class="content-container">
-  ![Visual SLAM Image](https://dl.dropboxusercontent.com/s/8ygg1xtuqb1pg7s/kict0.PNG){: width="200" style="padding-right:20px"}
+  <img width="200" style="padding-right:20px" src="https://dl.dropboxusercontent.com/s/8ygg1xtuqb1pg7s/kict0.PNG">
 
   <div>
     <h5><strong>Visual SLAM-based robotic mapping method for planetary construction</strong></h5>
@@ -177,7 +177,7 @@ M.Sc. in Mechanical Engineering
 </div>
 
 <div class="content-container">
-  ![Correlate-and-Excite Project Image](https://dl.dropboxusercontent.com/s/1vflanw5fcg71xr/2021_iros_lignet.gif){: width="200" style="padding-right:20px"}
+  <img width="200" style="padding-right:20px" src="https://dl.dropboxusercontent.com/s/1vflanw5fcg71xr/2021_iros_lignet.gif">
 
   <div>
     <h5><strong>Correlate-and-Excite: Real-Time Stereo Matching via Guided Cost Volume Excitation</strong></h5>
@@ -190,7 +190,7 @@ M.Sc. in Mechanical Engineering
 
 
 <div class="content-container">
-  ![Retaining Image Feature Matching Performance Image](https://dl.dropboxusercontent.com/s/dmoumvz29kj7w9f/Retaining.PNG){: width="200" style="padding-right:20px"}
+  <img width="200" style="padding-right:20px" src="https://dl.dropboxusercontent.com/s/dmoumvz29kj7w9f/Retaining.PNG">
 
   <div>
     <h5><strong>Retaining Image Feature Matching Performance Under Low Light Conditions</strong></h5>
