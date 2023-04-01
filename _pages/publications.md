@@ -19,14 +19,14 @@ nav: true
 ---
 <p style="margin: 0 auto; font-size:2em; color: silver; font-weight: 900; text-align:right ; max-width: 70%;">2023</p>
 
-<!-- <img align="left" height="125" height="125" style="float:left; padding-right:30px" src="https://dl.dropboxusercontent.com/s/7zpf026iwnc5vt9/DualRefine.PNG">
+<!-- <img align="left" width="250" height="125" style="float:left; padding-right:30px" src="https://dl.dropboxusercontent.com/s/7zpf026iwnc5vt9/DualRefine.PNG">
 
 ###### **DualRefine: Self-Supervised Depth and Pose Estimation Through Iterative Epipolar Sampling and Refinement Toward Equilibrium**
 **Antyanta Bangunharcana**, Ahmed Magd Aly, Kyung-Soo Kim  
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023 -->
 
 <div class="content-container">
-  <img height="125" style="padding-right:30px" src="https://dl.dropboxusercontent.com/s/7zpf026iwnc5vt9/DualRefine.PNG">
+  <img class="publication-image-L" src="https://dl.dropboxusercontent.com/s/7zpf026iwnc5vt9/DualRefine.PNG">
   
   <div>
     <h6><strong>DualRefine: Self-Supervised Depth and Pose Estimation Through Iterative Epipolar Sampling and Refinement Toward Equilibrium</strong></h6>
@@ -41,7 +41,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 <p style="margin: 0 auto; font-size:2em; color: silver; font-weight: 900; text-align:right ; max-width: 70%;">2022</p>
 
 <div class="content-container">
-  <img height="125" style="padding-right:30px" src="https://dl.dropboxusercontent.com/s/pvg05u9c5akboot/RevisitingDROID.PNG">
+  <img class="publication-image-L" src="https://dl.dropboxusercontent.com/s/pvg05u9c5akboot/RevisitingDROID.PNG">
 
   <div>
     <h6><strong>Revisiting the Receptive Field of Conv-GRU in DROID-SLAM</strong></h6>
@@ -53,7 +53,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 </div>
 
 <div class="content-container">
-  <img height="125" style="padding-right:30px" src="https://dl.dropboxusercontent.com/s/nqfobkzzvfoapid/kict1.PNG">
+  <img class="publication-image-L" src="https://dl.dropboxusercontent.com/s/nqfobkzzvfoapid/kict1.PNG">
 
   <div>
     <h6><strong>Robotic Mapping Approach under Illumination-Variant Environments at Planetary Construction Sites</strong></h6>
@@ -68,7 +68,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 <p style="margin: 0 auto; font-size:2em; color: silver; font-weight: 900; text-align:right ; max-width: 70%;">2021</p>
 
 <div class="content-container">
-  <img height="125" style="padding-right:30px" src="https://dl.dropboxusercontent.com/s/8ygg1xtuqb1pg7s/kict0.PNG">
+  <img class="publication-image-L" src="https://dl.dropboxusercontent.com/s/8ygg1xtuqb1pg7s/kict0.PNG">
 
   <div>
     <h6><strong>Visual SLAM-based robotic mapping method for planetary construction</strong></h6>
@@ -80,7 +80,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 </div>
 
 <div class="content-container">
-  <img height="125" style="padding-right:30px" src="https://dl.dropboxusercontent.com/s/1vflanw5fcg71xr/2021_iros_lignet.gif">
+  <img class="publication-image-L" src="https://dl.dropboxusercontent.com/s/1vflanw5fcg71xr/2021_iros_lignet.gif">
 
   <div>
     <h6><strong>Correlate-and-Excite: Real-Time Stereo Matching via Guided Cost Volume Excitation</strong></h6>
@@ -95,7 +95,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 <p style="margin: 0 auto; font-size:2em; color: silver; font-weight: 900; text-align:right ; max-width: 70%;">2020</p>
 
 <div class="content-container">
-  <img height="125" style="padding-right:30px" src="https://dl.dropboxusercontent.com/s/dmoumvz29kj7w9f/Retaining.PNG">
+  <img class="publication-image-L" src="https://dl.dropboxusercontent.com/s/dmoumvz29kj7w9f/Retaining.PNG">
 
   <div>
     <h6><strong>Retaining Image Feature Matching Performance Under Low Light Conditions</strong></h6>
