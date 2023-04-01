@@ -211,6 +211,7 @@ M.Sc. in Mechanical Engineering
 **Antyanta Bangunharcana**, Soohyun Kim, Kyung-Soo Kim  
 Spotlighted at [CVPR 2022 Embodied-AI Workshop](https://embodied-ai.org/)
 
-##### **Honorable Mention [Argoverse Stereo Depth Estimation Challenge](https://www.argoverse.org/tasks.html)**
+##### **Honorable Mention (=2nd place) [Argoverse Stereo Depth Estimation Challenge](https://www.argoverse.org/tasks.html)**
 **Antyanta Bangunharcana**, Soohyun Kim, Kyung-Soo Kim  
 Spotlighted at [CVPR 2022 Workshop on Autonomous Driving](https://cvpr2022.wad.vision/)
+
