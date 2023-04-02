@@ -23,7 +23,7 @@ description:
 
   <td>
       <br>
-      <a href="/assets/pdf/CV.pdf"><b>CV</b></a>
+      <a href="https://dl.dropboxusercontent.com/s/30lvdudhcq18r5t/Resume.pdf"><b>CV</b></a>
       <a href="https://scholar.google.com/citations?user=WUQXsgUAAAAJ&hl=en"><i class="ai ai-google-scholar"></i></a>
       <a href="https://github.com/antabangun"><i class="fab fa-github"></i></a>
       <a href="https://www.linkedin.com/in/antyanta-bangunharcana-60980216a/"><i class="fa fa-linkedin-square"></i></a>
