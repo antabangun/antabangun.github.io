@@ -39,7 +39,7 @@ other speed-based algorithms while also being competitive to
 other state-of-the-art algorithms
 </span>
 <p style="margin: 0 auto; font-size:0.9em; text-align:left ; " markdown="1">
-\[[Paper]()\] &nbsp; \[[Code](https://github.com/antabangun/coex)\] 
+\[[Paper](https://ieeexplore.ieee.org/abstract/document/9635909)\] &nbsp; \[[Code](https://github.com/antabangun/coex)\] 
   </p>
 
 <br>
