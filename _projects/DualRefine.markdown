@@ -61,7 +61,7 @@ initial hidden states that will be updated. DEQ-based alignments are then perfor
 
 
 <p align="center">
-  <video width="960" height="540" controls>
+  <video width=640 controls>
     <source src="https://dl.dropboxusercontent.com/s/omnpmdoqkhdybci/Iterations.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
