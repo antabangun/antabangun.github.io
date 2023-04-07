@@ -28,7 +28,7 @@ Inspired by traditional structure-from-motion (SfM) principles, we propose the D
 
 ## Overall architecture
 <p align="center">
-  <img src="https://dl.dropboxusercontent.com/s/zwko0467yua2wab/Overall.gif" title="DualRefine overall architecture" data-zoomable width="50%">
+  <img src="https://dl.dropboxusercontent.com/s/zwko0467yua2wab/Overall.gif" title="DualRefine overall architecture" data-zoomable width=720>
   <p style="margin: 0 auto; font-size:0.8em; text-align:center ; max-width: 70%;">
   Given a pair of source and target images, the teacher model predicts an initial depth D0 and pose T0, as well as
 initial hidden states that will be updated. DEQ-based alignments are then performed to find the fixed point and output the final predictions.</p>
@@ -38,7 +38,7 @@ initial hidden states that will be updated. DEQ-based alignments are then perfor
 ## Experiments
 ### Comparison with state-of-the-art methods
 <p align="center">
-  <img src="https://dl.dropboxusercontent.com/s/7183l0l14pt2o9v/DualRefineComparisonTable.PNG" title="Comparison with state-of-the-art" data-zoomable>
+  <img src="https://dl.dropboxusercontent.com/s/7183l0l14pt2o9v/DualRefineComparisonTable.PNG" title="Comparison with state-of-the-art" data-zoomable width=720>
   <p style="margin: 0 auto; font-size:0.8em; text-align:center ; max-width: 70%;">
   A comparative evaluation of the DualRefine model with recent leading self-supervised multi-frame depth estimation methods using the KITTI Eigen test split dataset.
   </p>
@@ -46,7 +46,7 @@ initial hidden states that will be updated. DEQ-based alignments are then perfor
 
 ### Significance of pose refinement
 <p align="center">
-  <img src="https://dl.dropboxusercontent.com/s/vtwwak9fqyqubu3/DualRefinePoseTable.PNG" title="Pose ablation" data-zoomable width="30%">
+  <img src="https://dl.dropboxusercontent.com/s/vtwwak9fqyqubu3/DualRefinePoseTable.PNG" title="Pose ablation" data-zoomable width=360>
   <p style="margin: 0 auto; font-size:0.8em; text-align:center ; max-width: 70%;">
   The model trained without pose refinement exhibit the poorest performance. In contrast, models employing pose refinement with learned per-pixel weights and refined pose for computing consistency masks achieve the best results overall. This highlights the crucial role of pose refinement in enhancing the accuracy of depth estimation.
   </p>
@@ -54,7 +54,7 @@ initial hidden states that will be updated. DEQ-based alignments are then perfor
 
 ### Depth per iteration
 <p align="center">
-  <img src="https://dl.dropboxusercontent.com/s/zdc8bsz85mqcvk8/Iters.PNG" title="Depth error per iteration" data-zoomable width="30%">
+  <img src="https://dl.dropboxusercontent.com/s/zdc8bsz85mqcvk8/Iters.PNG" title="Depth error per iteration" data-zoomable width=360>
   <p style="margin: 0 auto; font-size:0.8em; text-align:center ; max-width: 70%;">
   The depth error per iteration for the DualRefine model. The model converges to a fixed point after 6 iterations.
   </p>
