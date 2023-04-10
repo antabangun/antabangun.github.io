@@ -134,7 +134,7 @@ M.Sc. in Mechanical Engineering
     <strong>Antyanta Bangunharcana</strong>, Ahmed Magd Aly, Kyung-Soo Kim<br>
     Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023<br>
     
-    [<a href="#">Paper</a>] &nbsp; [<a href="/projects/DualRefine/index.html">Project</a>] &nbsp; [<a href="https://github.com/antabangun/DualRefine">Code</a>]
+    [<a href="https://arxiv.org/abs/2304.03560">Paper</a>] &nbsp; [<a href="/projects/DualRefine/index.html">Project</a>] &nbsp; [<a href="https://github.com/antabangun/DualRefine">Code</a>]
   </div>
 </div>
 

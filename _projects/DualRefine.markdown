@@ -19,7 +19,7 @@ Inspired by traditional structure-from-motion (SfM) principles, we propose the D
 
 <br>
 <p style="margin: 0 auto; font-size:0.9em; text-align:left ; " markdown="1">
-\[[Paper]()\] &nbsp; \[[Code](https://github.com/antabangun/DualRefine)\] 
+\[[Paper](https://arxiv.org/abs/2304.03560)\] &nbsp; \[[Code](https://github.com/antabangun/DualRefine)\] 
   </p>
 
 <br>
