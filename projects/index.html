@@ -11,7 +11,7 @@
   antabangun
 
 
-  | blog
+  | Projects
 
 </title>
 <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -64,8 +64,8 @@
 " />
 <meta property="og:type" content="object" />
 <meta property="og:title" content="" />
-<meta property="og:url" content="/blog/" />
-<meta property="og:description" content="blog" />
+<meta property="og:url" content="/projects/" />
+<meta property="og:description" content="Projects" />
 <meta property="og:image" content="" />
 
 
@@ -95,7 +95,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>AB</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -193,9 +193,13 @@
           
           
           
-          <li class="nav-item ">
+          
+          
+          <li class="nav-item active">
               <a class="nav-link" href="/projects/">
                 Projects
+                
+                <span class="sr-only">(current)</span>
                 
               </a>
           </li>
@@ -235,18 +239,72 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2></h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">Projects</h1>
+    <p class="post-description">A list of my projects.</p>
+  </header>
 
-
-  <ul class="post-list">
+  <article>
+    <div class="projects">
+  
+  <!-- Display categorized projects -->
     
-  </ul>
+      <h2 class="category">Research</h2>
+      
+      
+      <!-- Generate cards for each project -->
+      
+        <div class="grid">
+          
+            <div class="grid-item">
+  
+  <a href="/projects/CoEx/">
+  
+    <div class="card hoverable">
+      
+      <img src="https://dl.dropboxusercontent.com/s/1vflanw5fcg71xr/2021_iros_lignet.gif" alt="project thumbnail" />
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">CoEx</h2>
+        <p class="card-text">Correlate-and-Excite: Real-Time Stereo Matching via Guided Cost Volume Excitation</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+            <div class="grid-item">
+  
+  <a href="/projects/DualRefine/">
+  
+    <div class="card hoverable">
+      
+      <img src="https://dl.dropboxusercontent.com/s/7zpf026iwnc5vt9/DualRefine.PNG" alt="project thumbnail" />
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">DualRefine</h2>
+        <p class="card-text">DualRefine: Self-Supervised Depth and Pose Estimation Through Iterative Epipolar Sampling and Refinement Toward Equilibrium</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+        </div>
+      
+    
 
   
 
+</div>
+
+  </article>
 
 </div>
 
